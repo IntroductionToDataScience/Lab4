@@ -1,0 +1,114 @@
+[
+  {
+    "EngineID": "VP-101",
+    "Date": "2026-10-01",
+    "EngineLoadPct": 35,
+    "RPM": 1220,
+    "FuelConsumptionLph": 16.8
+  },
+  {
+    "EngineID": "VP-101",
+    "Date": "2026-10-02",
+    "EngineLoadPct": 55,
+    "RPM": 1490,
+    "FuelConsumptionLph": 22.4
+  },
+  {
+    "EngineID": "VP-101",
+    "Date": "2026-10-03",
+    "EngineLoadPct": 75,
+    "RPM": 1740,
+    "FuelConsumptionLph": 28.0
+  },
+  {
+    "EngineID": "VP-101",
+    "Date": "2026-10-04",
+    "EngineLoadPct": 90,
+    "RPM": 1960,
+    "FuelConsumptionLph": 32.2
+  },
+  {
+    "EngineID": "VP-102",
+    "Date": "2026-10-01",
+    "EngineLoadPct": 38,
+    "RPM": 1245,
+    "FuelConsumptionLph": 18.9
+  },
+  {
+    "EngineID": "VP-102",
+    "Date": "2026-10-02",
+    "EngineLoadPct": 58,
+    "RPM": 1515,
+    "FuelConsumptionLph": 24.5
+  },
+  {
+    "EngineID": "VP-102",
+    "Date": "2026-10-03",
+    "EngineLoadPct": 78,
+    "RPM": 1765,
+    "FuelConsumptionLph": 30.1
+  },
+  {
+    "EngineID": "VP-102",
+    "Date": "2026-10-04",
+    "EngineLoadPct": 93,
+    "RPM": 1985,
+    "FuelConsumptionLph": 34.3
+  },
+  {
+    "EngineID": "VP-103",
+    "Date": "2026-10-01",
+    "EngineLoadPct": 33,
+    "RPM": 1270,
+    "FuelConsumptionLph": 18.8
+  },
+  {
+    "EngineID": "VP-103",
+    "Date": "2026-10-02",
+    "EngineLoadPct": 53,
+    "RPM": 1540,
+    "FuelConsumptionLph": 24.4
+  },
+  {
+    "EngineID": "VP-103",
+    "Date": "2026-10-03",
+    "EngineLoadPct": 73,
+    "RPM": 1790,
+    "FuelConsumptionLph": 30.0
+  },
+  {
+    "EngineID": "VP-103",
+    "Date": "2026-10-04",
+    "EngineLoadPct": 88,
+    "RPM": 2010,
+    "FuelConsumptionLph": 34.2
+  },
+  {
+    "EngineID": "VP-104",
+    "Date": "2026-10-01",
+    "EngineLoadPct": 36,
+    "RPM": 1295,
+    "FuelConsumptionLph": 21.0
+  },
+  {
+    "EngineID": "VP-104",
+    "Date": "2026-10-02",
+    "EngineLoadPct": 56,
+    "RPM": 1565,
+    "FuelConsumptionLph": 26.6
+  },
+  {
+    "EngineID": "VP-104",
+    "Date": "2026-10-03",
+    "EngineLoadPct": 76,
+    "RPM": 1815,
+    "FuelConsumptionLph": 32.2
+  },
+  {
+    "EngineID": "VP-104",
+    "Date": "2026-10-04",
+    "EngineLoadPct": 91,
+    "RPM": 2035,
+    "FuelConsumptionLph": 36.4
+  }
+]

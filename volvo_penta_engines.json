@@ -1,0 +1,26 @@
+[
+  {
+    "EngineID": "VP-101",
+    "Model": "D6-440",
+    "PowerHP": 440,
+    "Vessel": "Baltic Explorer"
+  },
+  {
+    "EngineID": "VP-102",
+    "Model": "D6-370",
+    "PowerHP": 370,
+    "Vessel": "Sea Runner"
+  },
+  {
+    "EngineID": "VP-103",
+    "Model": "D4-300",
+    "PowerHP": 300,
+    "Vessel": "Nordic Star"
+  },
+  {
+    "EngineID": "VP-104",
+    "Model": "D8-550",
+    "PowerHP": 550,
+    "Vessel": "Ocean Pioneer"
+  }
+]

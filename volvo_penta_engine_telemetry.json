@@ -1,0 +1,86 @@
+[
+  {
+    "engineId": "VP-D6-101",
+    "vessel": "Baltic Explorer",
+    "engine": {
+      "model": "D6-440",
+      "year": 2022
+    },
+    "measurements": [
+      {
+        "date": "2026-10-01",
+        "hours": 4.0,
+        "fuelLiters": 48.0,
+        "temperatureC": 84
+      },
+      {
+        "date": "2026-10-02",
+        "hours": 5.5,
+        "fuelLiters": 71.5,
+        "temperatureC": 86
+      },
+      {
+        "date": "2026-10-03",
+        "hours": 3.0,
+        "fuelLiters": 37.5,
+        "temperatureC": 83
+      }
+    ]
+  },
+  {
+    "engineId": "VP-D6-102",
+    "vessel": "Sea Runner",
+    "engine": {
+      "model": "D6-370",
+      "year": 2021
+    },
+    "measurements": [
+      {
+        "date": "2026-10-01",
+        "hours": 3.5,
+        "fuelLiters": 45.5,
+        "temperatureC": 88
+      },
+      {
+        "date": "2026-10-02",
+        "hours": 4.0,
+        "fuelLiters": 54.0,
+        "temperatureC": 90
+      },
+      {
+        "date": "2026-10-03",
+        "hours": 6.0,
+        "fuelLiters": 84.0,
+        "temperatureC": 91
+      }
+    ]
+  },
+  {
+    "engineId": "VP-D4-103",
+    "vessel": "North Star",
+    "engine": {
+      "model": "D4-300",
+      "year": 2023
+    },
+    "measurements": [
+      {
+        "date": "2026-10-01",
+        "hours": 2.5,
+        "fuelLiters": 24.0,
+        "temperatureC": 79
+      },
+      {
+        "date": "2026-10-02",
+        "hours": 4.0,
+        "fuelLiters": 40.0,
+        "temperatureC": 81
+      },
+      {
+        "date": "2026-10-03",
+        "hours": 5.0,
+        "fuelLiters": 52.5,
+        "temperatureC": 82
+      }
+    ]
+  }
+]

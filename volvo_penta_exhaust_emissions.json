@@ -1,0 +1,98 @@
+[
+  {
+    "EngineID": "VP-101",
+    "Date": "2026-10-01",
+    "NOx_ppm": 98.2,
+    "ExhaustTempC": 277.8
+  },
+  {
+    "EngineID": "VP-101",
+    "Date": "2026-10-02",
+    "NOx_ppm": 109.6,
+    "ExhaustTempC": 310.8
+  },
+  {
+    "EngineID": "VP-101",
+    "Date": "2026-10-03",
+    "NOx_ppm": 136.0,
+    "ExhaustTempC": 343.8
+  },
+  {
+    "EngineID": "VP-101",
+    "Date": "2026-10-04",
+    "NOx_ppm": 143.8,
+    "ExhaustTempC": 368.5
+  },
+  {
+    "EngineID": "VP-102",
+    "Date": "2026-10-01",
+    "NOx_ppm": 108.0,
+    "ExhaustTempC": 285.7
+  },
+  {
+    "EngineID": "VP-102",
+    "Date": "2026-10-02",
+    "NOx_ppm": 119.4,
+    "ExhaustTempC": 318.7
+  },
+  {
+    "EngineID": "VP-102",
+    "Date": "2026-10-03",
+    "NOx_ppm": 145.8,
+    "ExhaustTempC": 351.7
+  },
+  {
+    "EngineID": "VP-102",
+    "Date": "2026-10-04",
+    "NOx_ppm": 153.6,
+    "ExhaustTempC": 376.4
+  },
+  {
+    "EngineID": "VP-103",
+    "Date": "2026-10-01",
+    "NOx_ppm": 110.4,
+    "ExhaustTempC": 280.4
+  },
+  {
+    "EngineID": "VP-103",
+    "Date": "2026-10-02",
+    "NOx_ppm": 121.8,
+    "ExhaustTempC": 313.4
+  },
+  {
+    "EngineID": "VP-103",
+    "Date": "2026-10-03",
+    "NOx_ppm": 148.2,
+    "ExhaustTempC": 346.4
+  },
+  {
+    "EngineID": "VP-103",
+    "Date": "2026-10-04",
+    "NOx_ppm": 156.0,
+    "ExhaustTempC": 371.2
+  },
+  {
+    "EngineID": "VP-104",
+    "Date": "2026-10-01",
+    "NOx_ppm": 120.1,
+    "ExhaustTempC": 288.4
+  },
+  {
+    "EngineID": "VP-104",
+    "Date": "2026-10-02",
+    "NOx_ppm": 131.5,
+    "ExhaustTempC": 321.4
+  },
+  {
+    "EngineID": "VP-104",
+    "Date": "2026-10-03",
+    "NOx_ppm": 157.9,
+    "ExhaustTempC": 354.4
+  },
+  {
+    "EngineID": "VP-104",
+    "Date": "2026-10-04",
+    "NOx_ppm": 165.7,
+    "ExhaustTempC": 379.1
+  }
+]

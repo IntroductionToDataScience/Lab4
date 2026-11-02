@@ -1,0 +1,27 @@
+Volvo Penta Service Department - Service Jobs Report - October 2026
+ServiceID;Date;ServiceType;Category;Hours;HourlyRate;PartsCost
+SRV-3101;2026-10-01;Oil and filter replacement;Maintenance;1,5;175;140
+SRV-3102;2026-10-02;Engine diagnostics;Diagnostics;2,0;190;0
+SRV-3103;2026-10-03;Starter motor replacement;Repair;3,0;185;1810
+SRV-3104;2026-10-04;Impeller replacement;Maintenance;2,0;175;245
+SRV-3105;2026-10-05;Winterization service;Maintenance;2,5;175;210
+SRV-3106;2026-10-06;Sensor diagnostics;Diagnostics;1,0;190;45
+SRV-3107;2026-10-07;Propeller inspection;Inspection;1,0;175;0
+SRV-3108;2026-10-08;Oil and filter replacement;Maintenance;1,5;175;140
+SRV-3109;2026-10-09;Sea water pump replacement;Repair;3,5;185;1240
+SRV-3110;2026-10-10;Alternator replacement;Repair;2,5;185;1590
+SRV-3111;2026-10-11;Cooling system inspection;Inspection;1,5;175;40
+SRV-3112;2026-10-12;Winterization service;Maintenance;2,5;175;210
+SRV-3113;2026-10-13;Engine diagnostics;Diagnostics;2,0;190;0
+SRV-3114;2026-10-14;Starter motor replacement;Repair;3,0;185;1810
+SRV-3115;2026-10-15;Impeller replacement;Maintenance;2,0;175;245
+SRV-3116;2026-10-16;Sea water pump replacement;Repair;3,5;185;1240
+SRV-3117;2026-10-17;Sensor diagnostics;Diagnostics;1,0;190;45
+SRV-3118;2026-10-18;Propeller inspection;Inspection;1,0;175;0
+SRV-3119;2026-10-19;Oil and filter replacement;Maintenance;1,5;175;140
+SRV-3120;2026-10-20;Engine diagnostics;Diagnostics;2,0;190;0
+SRV-3121;2026-10-21;Alternator replacement;Repair;2,5;185;1590
+SRV-3122;2026-10-22;Cooling system inspection;Inspection;1,5;175;40
+SRV-3123;2026-10-23;Winterization service;Maintenance;2,5;175;210
+SRV-3124;2026-10-24;Sensor diagnostics;Diagnostics;1,0;190;45
+SRV-3125;2026-10-25;Starter motor replacement;Repair;3,0;185;1810
